@@ -26,6 +26,7 @@ if(choice==1):
    print(f" your salary is Salary :{newsalary}")
 elif(choice==2):
    print(f"your experience is {experience}")
-
+else:
+   print(f"The bonus you have earned is : {newbonus}")
 
    
